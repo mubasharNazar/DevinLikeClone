@@ -65,7 +65,8 @@ DEVINLIKECLONE/
 
 ## 💡 Example Prompts
 
-- “Create a calculator application using HTML, CSS, and JavaScript.”
-- “Build a TODO app with a modern UI.”
-- “Create a random quote generator with a button to generate a new quote.”
+- Create a calculator application using HTML, CSS, and JavaScript.
+- Build a TODO app with a modern UI.
+- Create a random quote generator with a button to generate a new quote.
+
 
