@@ -67,5 +67,5 @@ DEVINLIKECLONE/
 
 - “Create a calculator application using HTML, CSS, and JavaScript.”
 - “Build a TODO app with a modern UI.”
-- “Generate a REST API for a blog using FastAPI.”
-- “Design a weather app frontend with React.”
+- “Create a random quote generator with a button to generate a new quote.”
+
